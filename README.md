@@ -106,4 +106,4 @@ Project Spaceship Problem/
 
 ## Author
 
-Prepared as a data science internship project and refined for GitHub portfolio presentation.
+Prepared as a Data Science Internship Project and Refined for GitHub Portfolio Presentation.
