@@ -105,5 +105,7 @@ Project Spaceship Problem/
 - Include richer visualizations and model interpretation
 
 ## Author
+
 Nadeem Ahamad
+
 Prepared as a Data Science Internship Project and Refined for GitHub Portfolio Presentation.
